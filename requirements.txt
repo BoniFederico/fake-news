@@ -1,0 +1,13 @@
+gensim==4.2.0
+keras==2.9.0
+matplotlib==3.5.2
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.2
+scikit_learn==1.1.1
+spacy==3.0.8
+statsmodels==0.13.2
+tensorflow==2.9.1
+torch==1.11.0
+transformers==4.20.0
+wordcloud==1.8.1
