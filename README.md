@@ -4,7 +4,8 @@ The problem of fake news classification: A comparison between prediction models 
 The repository contains the code of the project for the Natural Language Processing course of Univeristy of Trieste.
 <hr>
 The main code is contained in the notebook project.ipynb. Other modules that have been defined are:
-<br>
+<br><br>
+
 - datasets.py
 - lstm.py
 - lstm_word2vec.py
